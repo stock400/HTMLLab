@@ -1,0 +1,49 @@
+body {
+    background-image: url('http://sidewaysauthority.com/wp-content/uploads/2013/12/1275010488-cpcvb2q.jpg');
+}
+h1 {
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 500%;
+    color: black;
+}
+
+a {
+    padding-right: 20%;
+}
+a:hover {
+    color: black;
+    background-color: white;
+}
+
+a:visited {
+    color: gold;
+}
+
+#navBar {
+    background-color: black;
+    background-size: 2.5vw;
+    margin-top: -25px;
+    font-size: 2.5vw;
+ }
+
+.whiteLetters {
+    color: white;
+    padding-right: 20%;
+}
+
+#descrip {
+    color: gold;
+    width: 68%;
+    font-size: 3.0vw;
+    float: left;
+}
+
+.monkey {
+    width: 30%;
+}
+
+div p {
+    float: left;
+}
