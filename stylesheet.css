@@ -32,6 +32,7 @@ a:nth-child(3) {
     height: 40px;
     margin-top: -20px;
     text-align: center;
+    font-size: 2.0vw;
  }
 
 .whiteLetters {
@@ -61,11 +62,29 @@ html, body {
 
 img {
     float: right;
+    position: relative;
+}
+
+img:nth-child(3) {
+    height: 45%;
+    width: 33%;
+    bottom: 20.1vw;
+    left: 58vw;
+}
+
+img:first-child {
+    right: 0px;
+    top: 0px;
+    height: 45%;
+    width: 21%;
 }
 
 footer {
     clear: both;
-    color: black;
+    color: gold;
     float: left;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
 }
 
